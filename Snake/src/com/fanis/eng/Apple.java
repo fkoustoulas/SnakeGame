@@ -14,17 +14,21 @@ public class Apple {
         height = tileSize;
     }
     
-    public void draw(Graphics g)
-    {
+    public void draw(Graphics g){
         g.setColor(Color.black);
         g.fillRect(xCoor * width, yCoor * height, width, height);
         g.setColor(Color.RED);
         g.fillRect(xCoor * width + 2, yCoor * height +2, width - 4, height - 4);
     }
     
+<<<<<<< HEAD
     public void tick()
     {
         //vlado test asd
+=======
+    public void tick(){
+        
+>>>>>>> parent of 40125b3... Add files via upload
     }
     
 }
