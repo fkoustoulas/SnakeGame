@@ -24,7 +24,7 @@ public class Apple {
     
     public void tick()
     {
-        //vlado test 
+        //vlado test asd
     }
     
 }
