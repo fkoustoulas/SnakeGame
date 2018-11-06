@@ -21,14 +21,9 @@ public class Apple {
         g.fillRect(xCoor * width + 2, yCoor * height +2, width - 4, height - 4);
     }
     
-<<<<<<< HEAD
     public void tick()
     {
         //vlado test asd
-=======
-    public void tick(){
-        
->>>>>>> parent of 40125b3... Add files via upload
     }
     
 }
