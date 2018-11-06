@@ -10,7 +10,7 @@ public class Frame extends JFrame{
     public Frame(){
         
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(500,500);
+        setSize(500,600);
         setVisible(true);
         setResizable(false);
         setFocusable(true);
